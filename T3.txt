@@ -1,0 +1,6 @@
+def m1():
+   a=10
+   b=20
+   return a,b
+x,y=m1()
+print(x)
